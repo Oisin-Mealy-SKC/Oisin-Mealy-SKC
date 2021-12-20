@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oisin-Mealy-SKC
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning Python and HTML
-- 💞️ I’m looking to collaborate on Pythob
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me 17-0102@stkieranscollege.ie
 
 <!---
